@@ -14,7 +14,7 @@ const Hero = () => {
               Amazingly simple
             </h1>
             <p className="max-w-440 mb-14 body-1 max-md:mb-10">
-            We created Nordic Wellness subscription to be a simple, fast, and truly effective way to improve your fitness journey.
+            We at Nordic Wellness created a subscription to be a simple, fast, and truly effective way to improve your fitness journey.
 
             </p>
             <LinkScroll to="features" offset={-100} spy smooth>
